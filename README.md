@@ -1,3 +1,9 @@
+## My projects:
+
+- [Rusty Colors](https://github.com/IoaNNUwU/rusty-colors) VSCode (VSCodeium) theme
+- [Cubic Game](https://github.com/IoaNNUwU/cubic-game) minecraft clone in Rust
+- [InLine](https://github.com/IoaNNUwU/InLine) `deprecated` IntelliJ-based IDEs plugin
+
 ## Hi there 👋
 
 - https://github.com/rust-lang/rust/pull/146123
