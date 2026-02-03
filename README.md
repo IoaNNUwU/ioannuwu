@@ -2,11 +2,17 @@
 
 - [Rusty Colors](https://github.com/IoaNNUwU/rusty-colors) VSCode (VSCodeium) theme
 - [Cubic Game](https://github.com/IoaNNUwU/cubic-game) minecraft clone in Rust
-- [InLine](https://github.com/IoaNNUwU/InLine) `deprecated` IntelliJ-based IDEs plugin
+- [Fast structures](https://github.com/IoaNNUwU/fast) in Golang
+- [InLine](https://github.com/IoaNNUwU/InLine) `deprecated` IntelliJ-based IDE plugin
 
-## Hi there 👋
+## My Open Source work:
 
-- https://github.com/rust-lang/rust/pull/146123
+- [Rust compiler](https://github.com/rust-lang/rust/pull/146123) contribution and [article](https://ioannuwu.github.io/blog/improving-library-by-contributing-to-rust-compiler/) on what was the motivation behind it.
+
+## Educational materials 
+
+- [YouTube channel] `RU` on systems programming
+
 <!--
 **IoaNNUwU/ioannuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
