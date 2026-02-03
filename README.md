@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- https://github.com/rust-lang/rust/pull/146123
 <!--
 **IoaNNUwU/ioannuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
