@@ -11,7 +11,7 @@
 
 ## Educational materials 
 
-- [YouTube channel] `RU` on systems programming
+- [YouTube channel](https://www.youtube.com/@bitwiseuwu) `RU` on systems programming
 
 <!--
 **IoaNNUwU/ioannuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
