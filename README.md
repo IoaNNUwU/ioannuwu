@@ -7,7 +7,7 @@
 
 ## My Open Source work:
 
-- [Rust compiler](https://github.com/rust-lang/rust/pull/146123) contribution and [article](https://ioannuwu.github.io/blog/improving-library-by-contributing-to-rust-compiler/) on what was the motivation behind it.
+- [Rust compiler](https://github.com/rust-lang/rust/pull/146123) contribution and [article](https://ioannuwu.github.io/blog/improving-library-by-contributing-to-rust-compiler/) on the motivation behind it.
 
 ## Educational materials 
 
