@@ -2,8 +2,8 @@
 
 - [Rusty Colors](https://github.com/IoaNNUwU/rusty-colors) VSCode (VSCodeium) theme
 - [Cubic Game](https://github.com/IoaNNUwU/cubic-game) minecraft clone in Rust
+- [VCard serialization library](https://github.com/IoaNNUwU/vcard) in Golang
 - [Fast structures](https://github.com/IoaNNUwU/fast) in Golang
-- [VCard serialization library](https://github.com/IoaNNUwU/fast) in Golang
 - [InLine](https://github.com/IoaNNUwU/InLine) `deprecated` IntelliJ-based IDE plugin
 
 ## My Open Source work:
